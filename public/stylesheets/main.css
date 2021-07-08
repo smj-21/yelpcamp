@@ -1,0 +1,10 @@
+body{
+    background: url('https://unsplash.com/photos/62vi3TG5EDg/download?force=true&w=2400');
+}
+.thumbnail img{
+    width: 100%;
+}
+
+.thumbnail .caption-full{
+    padding: 10px;
+}
